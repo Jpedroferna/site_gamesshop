@@ -141,16 +141,14 @@ footer {
     padding: 16px 0;
 }
 
-.games {
+#list .games {
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
-    text-align: justify;
 }
 
 .games img {
         margin-bottom: 16px;
-        margin: 0 auto;
         width: 250px;
         height: 350px;
         object-fit: contain;
