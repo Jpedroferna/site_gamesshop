@@ -153,3 +153,24 @@ footer {
         height: 350px;
         object-fit: contain;
 }
+
+.games article img {
+    /* height: 180px; */
+    width: 100%;
+}
+
+.games article {
+    margin-bottom: 16px;
+}
+
+.games article h3,
+.games h2,
+.games p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.games h2 {
+    font-size: 25px;
+}
